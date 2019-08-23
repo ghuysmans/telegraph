@@ -1,0 +1,4 @@
+(library
+ (name telegraph)
+ (inline_tests)
+ (preprocess (pps ppx_expect)))

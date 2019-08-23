@@ -1,0 +1,3 @@
+(executable
+ (name tel)
+ (libraries telegraph))
